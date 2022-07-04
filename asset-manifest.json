@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ricardofornetti.io/React-2da-Entrega/static/css/main.e6bd5547.css",
+    "main.js": "/ricardofornetti.io/React-2da-Entrega/static/js/main.19ec3a96.js",
+    "static/media/whatsapp.svg": "/ricardofornetti.io/React-2da-Entrega/static/media/whatsapp.bd02df8e7a5ef128e55bcd2a40a8b4a5.svg",
+    "index.html": "/ricardofornetti.io/React-2da-Entrega/index.html",
+    "static/media/github.svg": "/ricardofornetti.io/React-2da-Entrega/static/media/github.22e65707326e3e1e37afd21c5334995a.svg",
+    "static/media/linkedin.svg": "/ricardofornetti.io/React-2da-Entrega/static/media/linkedin.2eda7bddaacee15c44494bb63ca94165.svg",
+    "static/media/trash-fill.svg": "/ricardofornetti.io/React-2da-Entrega/static/media/trash-fill.f1938ca5e402d9d1355bb4f20a6984c6.svg",
+    "static/media/handbag-fill.svg": "/ricardofornetti.io/React-2da-Entrega/static/media/handbag-fill.c2b9d6b87b1e6942e4a2f1a351b43be3.svg",
+    "static/media/envelope-fill.svg": "/ricardofornetti.io/React-2da-Entrega/static/media/envelope-fill.7828ea972566d7acd02102084ef56f46.svg",
+    "static/media/arrow-left-circle-fill.svg": "/ricardofornetti.io/React-2da-Entrega/static/media/arrow-left-circle-fill.945a91d00839a039b6284c5dc52348b8.svg",
+    "static/media/plus-square-fill.svg": "/ricardofornetti.io/React-2da-Entrega/static/media/plus-square-fill.25cbe1ae1b2158c22756e96e37e245ef.svg",
+    "main.e6bd5547.css.map": "/ricardofornetti.io/React-2da-Entrega/static/css/main.e6bd5547.css.map",
+    "main.19ec3a96.js.map": "/ricardofornetti.io/React-2da-Entrega/static/js/main.19ec3a96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6bd5547.css",
+    "static/js/main.19ec3a96.js"
+  ]
+}
